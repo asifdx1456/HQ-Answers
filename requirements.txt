@@ -1,2 +1,2 @@
 aiohttp
-git+https://discord.com/channels/535669665284751372/708146834752929813
+git+https://github.com/asifdx1456/discord.py
